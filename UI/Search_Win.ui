@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>SearchWin</class>
+ <widget class="QMainWindow" name="SearchWin">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1024</width>
+    <height>1024</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>1024</width>
+    <height>1024</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>1024</width>
+    <height>1024</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>EXPLORATION</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>../../../../../.designer/logo_only.ico</normaloff>../../../../../.designer/logo_only.ico</iconset>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="pics_lbl">
+    <property name="geometry">
+     <rect>
+      <x>190</x>
+      <y>310</y>
+      <width>650</width>
+      <height>350</height>
+     </rect>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>650</width>
+      <height>350</height>
+     </size>
+    </property>
+    <property name="maximumSize">
+     <size>
+      <width>650</width>
+      <height>350</height>
+     </size>
+    </property>
+    <property name="styleSheet">
+     <string notr="true"/>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignJustify|Qt::AlignVCenter</set>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="open_btn">
+    <property name="geometry">
+     <rect>
+      <x>380</x>
+      <y>760</y>
+      <width>151</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(144, 85, 162);
+font: 63 20pt &quot;NanumSquare&quot;;
+color: rgb(255, 255, 255);
+
+</string>
+    </property>
+    <property name="text">
+     <string>OPEN</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="results_btn">
+    <property name="geometry">
+     <rect>
+      <x>640</x>
+      <y>760</y>
+      <width>151</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(144, 85, 162);
+font: 63 20pt &quot;NanumSquare&quot;;
+color: rgb(255, 255, 255);
+
+</string>
+    </property>
+    <property name="text">
+     <string>RESULT</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="bgLabel">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>1024</width>
+      <height>1024</height>
+     </rect>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>1024</width>
+      <height>1024</height>
+     </size>
+    </property>
+    <property name="maximumSize">
+     <size>
+      <width>1024</width>
+      <height>1024</height>
+     </size>
+    </property>
+    <property name="focusPolicy">
+     <enum>Qt::NoFocus</enum>
+    </property>
+    <property name="styleSheet">
+     <string notr="true"/>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="region">
+    <property name="geometry">
+     <rect>
+      <x>130</x>
+      <y>760</y>
+      <width>151</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>210 Namoogulrim</family>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="layoutDirection">
+     <enum>Qt::LeftToRight</enum>
+    </property>
+    <item>
+     <property name="text">
+      <string>전국</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>서울</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>경기</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>강원</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>대전</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>인천</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>광주</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>충북</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>충남</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>전북</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>전남</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>경북</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>경남</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>부산</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>대구</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>울산</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>제주</string>
+     </property>
+    </item>
+   </widget>
+   <zorder>bgLabel</zorder>
+   <zorder>pics_lbl</zorder>
+   <zorder>open_btn</zorder>
+   <zorder>results_btn</zorder>
+   <zorder>region</zorder>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
