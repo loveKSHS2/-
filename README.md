@@ -1,5 +1,6 @@
 # similar_site_recommendation
 main2.py == images recommendation(regions)
+
 main.py == PyQt5 Gui Programming
 
 images is images folder wth gps information.( Create your own image folder bc there are copyrighted photos.)
