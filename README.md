@@ -10,3 +10,5 @@ UI is pyQt5 ui folder
 views_img is UI design folder
 
 ![1](https://user-images.githubusercontent.com/45482747/71647687-d8b1b000-2d3d-11ea-9854-9025a742e253.png)
+
+![2](https://user-images.githubusercontent.com/45482747/71647826-55915980-2d3f-11ea-9afa-1238d75e533c.png)
