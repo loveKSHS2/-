@@ -39,6 +39,5 @@ views_img is UI design folder
 
 ![15](https://user-images.githubusercontent.com/45482747/71647891-f6801480-2d3f-11ea-965a-0ae21ccc9b40.png)
 
-##계정 생성
-
+## 계정 생성
 ![image](https://user-images.githubusercontent.com/45482747/71648240-85436000-2d45-11ea-85a5-341c049c11e7.png)
