@@ -49,7 +49,7 @@ views_img is UI design folder
 - EXPLORE
 - RECOMMEND
 - HISTORY
-##
+
 ![image](https://user-images.githubusercontent.com/45482747/71648347-7315f180-2d46-11ea-8467-e0c45d717f98.png)
 ##
 ### EXPLORE
