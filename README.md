@@ -95,5 +95,21 @@ RESULT를 누르면 서울안에서 유사도가 가장 높은 3개의 이미지
 해당 계정의 찾았던 target이미지와 유사한 장소들을 나타냄
 ##
 
+![image](https://user-images.githubusercontent.com/45482747/71762602-837bc700-2f14-11ea-95f3-39b553bd2cc6.png)
+
+![image](https://user-images.githubusercontent.com/45482747/71762606-a8703a00-2f14-11ea-8175-93130ce6d8ba.png)
+
+![image](https://user-images.githubusercontent.com/45482747/71762611-b7ef8300-2f14-11ea-892a-aadfc1049814.png)
+
+
+![image](https://user-images.githubusercontent.com/45482747/71762618-c8076280-2f14-11ea-9fe1-1feaf15b65ac.png)
+
+![image](https://user-images.githubusercontent.com/45482747/71762632-fb49f180-2f14-11ea-9554-6cc7d38473c4.png)
+
+
+![image](https://user-images.githubusercontent.com/45482747/71762626-e79e8b00-2f14-11ea-8e92-0f621543ac59.png)
+
+
+
 
 
